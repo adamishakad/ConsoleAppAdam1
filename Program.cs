@@ -14,6 +14,7 @@
             Console.WriteLine("The most damaging phrase in the language is, we'are always done it this way");
             Console.Write("4.Terry Pratchett");
             Console.WriteLine("It is not worth doing something unless someone, somewhere, would much rather you weren't doing it");
+            Console.Write("1.Edsger W. DijkstraComputer Science is no more about computers than astronomy is about telescopes");
 
 
 
